@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="fa">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>صفحه ثبت‌نام</title>
+    <link rel="stylesheet" href="signup.css">
+</head>
+<body>
+    <div class="signup-container">
+        <h1>ثبت‌نام</h1>
+        <form action="main.php" method="POST">
+            
+            <label for="username">نام کاربری:</label>
+            <input type="text" id="username" name="username" required>
+
+            <label for="email">ایمیل:</label>
+            <input type="email" id="email" name="email" required>
+
+            <label for="password">رمز عبور:</label>
+            <input type="password" id="password" name="password" required>
+
+            <label for="confirm-password">تایید رمز عبور:</label>
+            <input type="password" id="confirm-password" name="confirm-password" required>
+
+            <button type="submit">ثبت‌نام</button>
+        </form>
+    </div>
+</body>
+</html>

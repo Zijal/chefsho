@@ -1,0 +1,21 @@
+body{
+    direction: rtl;
+    font-family: Estedad;
+    background-color: #FDF0D5;
+    color: black;
+    margin-left: 30px;
+}
+
+@font-face {
+    font-family: "Estedad";
+    src: url("fonts/Estedad[wght\,kshd].ttf");
+    src: url("fonts/Estedad[wght\,kshd].woff2");
+}
+
+img{
+    border-radius: 30px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
