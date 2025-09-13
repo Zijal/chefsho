@@ -45,12 +45,12 @@ git clone https://github.com/Zijal/chefsho.git
 	•	XAMPP: C:\xampp\htdocs\chefsho
 	•	MAMP: /Applications/MAMP/htdocs/chefsho
 
-	3.	Start your local server
+3.	Start your local server
 
-	•	Open XAMPP, MAMP, or Laragon and start Apache.
+•	Open XAMPP, MAMP, or Laragon and start Apache.
 
-	4.	Open the website in your browser
-http://localhost/chefsho
+4.	Open the website in your browser
+     http://localhost/chefsho
 
 The main entry point is index.php.
 
