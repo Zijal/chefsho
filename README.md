@@ -52,7 +52,7 @@ git clone https://github.com/Zijal/chefsho.git
 4.	Open the website in your browser
      http://localhost/chefsho
 
-The main entry point is index.php.
+The main entry point is main.php.
 
 ⸻
 
